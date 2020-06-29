@@ -1,0 +1,80 @@
+#upperpart{
+    margin-top: -0.5em; 
+    padding: 0px;
+    height:100%;
+    width: auto;
+    background-color: #d4d4d4;
+    background-image: url(../html/images/Backgrounds/grey-washed-wall.png);
+    background-size: cover;
+
+}
+#title{
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;
+    color:hsl(185, 3%, 11%);
+}
+.Subtitle{
+    text-align: center;
+    color:hsl(0, 0%, 21%);
+}
+
+.nav_block{
+    text-align: center;
+    margin-right: 1.75em;
+    padding-bottom: 10px;
+    list-style-type: none;
+    overflow: hidden;
+
+}
+.nav_but{
+    display: inline;
+    padding: 5px;
+}
+
+.nav_link{
+    text-decoration: none;
+    color:hsl(0, 0%, 21%);
+    font-weight: 900;
+}
+
+.nav_link:hover{
+    color:black;
+}
+.responsive{
+    height:100%;
+    width: auto;
+}
+#main_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+    width: 25%;
+}
+
+hr{
+    width: 5%;
+}
+
+.content{
+    text-align: center;
+    width:50%;
+    margin-left:25%;
+    line-height: 2em;
+    font: georgia;
+    color: dimgrey;
+}
+
+#downpart{
+    height: 81px;
+    width: 100%;
+    background-color: #d4d4d4;
+    background-image: url(../html/images/Backgrounds/grey-washed-wall.png);
+    background-size: cover;
+    text-align: center;
+}
+
+#credits{
+    padding-top:2em;
+}
